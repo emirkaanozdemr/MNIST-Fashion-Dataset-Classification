@@ -1,1 +1,1 @@
-# MNIST-Dataset-Classification
+# MNIST-Fashion-Dataset-Classification
